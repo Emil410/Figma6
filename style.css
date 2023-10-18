@@ -1,0 +1,217 @@
+*{
+    margin:0;
+	padding:0;
+	box-sizing:border-box;
+	text-decoration:none;
+	list-style:none;
+}
+body{
+    background-color: whitesmoke;
+}
+#main_div{
+    background-color: white;
+    width: 1000px;
+    height: 600px;
+    margin:50px auto ;
+    padding: 7px;
+}
+#first_div{
+    display: inline-block;
+    height: 30px;
+    width:80px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+p{
+    line-height: 30px;
+    color: rgb(254,254,254);
+}
+#second_div{
+    display: inline-block;
+    height: 30px;
+    width:902px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#third_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:160px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#fourth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:822px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#fifth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:240px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#sixth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:742px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#seventh_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:320px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#eighth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:662px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#ninth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:400px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#tenth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:582px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#eleventh_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:480px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#twelfth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:502px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#thirteenth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:560px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#fourteenth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:422px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#fifteenth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:640px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#sixteenth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:342px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#seventeenth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:720px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#eighteenth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:262px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#nineteenth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:800px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#twentieth_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:182px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#twenty_first_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:880px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
+#twenty_second_div{
+    margin-top: 7px;
+    display: inline-block;
+    height: 30px;
+    width:102px ;
+    background-color: rgb(165,204,79);
+    text-align: center;
+    font-size: 17px;
+}
